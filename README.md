@@ -37,7 +37,7 @@ Three UML diagrams were produced to model the proposed system:
 
 - **Use Case Diagram** — models interactions between users and the platform across virtual try-on, exchange system, digital assistant, and inventory management
 - **Class Diagram** — defines the core data structures and relationships between entities
-- **Sequence Diagram** — illustrates the flow of key processes including virtual try-on requests and exchange transactions
+- **Sequence Diagram** — illustrates the flow of key processes, including virtual try-on requests and exchange transactions
 
 ---
 
